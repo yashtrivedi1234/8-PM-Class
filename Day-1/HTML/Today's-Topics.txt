@@ -3,3 +3,9 @@ Why HTML is used?
 How HTML works?
 Hypertext Markup Language (HTML) is the standard markup language used to create and design web pages. It provides the structure of a webpage by using various elements and tags.
 HTML is used to create the content and layout of web pages. 
+
+
+CDN - Content Delivery Network
+
+SEO- Search Engine Optimization
+types of SEO- On-page SEO, Off-page SEO, Technical SEO
