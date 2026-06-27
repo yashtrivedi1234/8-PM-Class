@@ -9,3 +9,8 @@ CDN - Content Delivery Network
 
 SEO- Search Engine Optimization
 types of SEO- On-page SEO, Off-page SEO, Technical SEO
+
+
+Software Development:-
+1. Application Development:- 1. Android Development:- Kotlin, 2. iOS Development:- Swift, 3. Cross-platform Development:- React Native, Flutter
+2. Web Development :- 1. Frontend Development:- React, Angular, Vue, 2. Backend Development:- Node.js, Django, Ruby on Rails
